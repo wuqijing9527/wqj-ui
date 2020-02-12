@@ -1,0 +1,72 @@
+{
+  "id": "1633747",
+  "name": "iconfont",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8777389",
+      "name": "close",
+      "font_class": "circle-close",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "996183",
+      "name": "view",
+      "font_class": "view",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "715320",
+      "name": "close",
+      "font_class": "close",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    },
+    {
+      "icon_id": "1207898",
+      "name": "message",
+      "font_class": "message",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "5912552",
+      "name": "edit",
+      "font_class": "edit",
+      "unicode": "e733",
+      "unicode_decimal": 59187
+    },
+    {
+      "icon_id": "10561643",
+      "name": "Star",
+      "font_class": "Star",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "10838487",
+      "name": "delete",
+      "font_class": "delete",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "11741035",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e688",
+      "unicode_decimal": 59016
+    },
+    {
+      "icon_id": "11808094",
+      "name": "check",
+      "font_class": "check",
+      "unicode": "e6b8",
+      "unicode_decimal": 59064
+    }
+  ]
+}
