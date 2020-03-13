@@ -1,4 +1,4 @@
-### 一、wqj-ui组件使用手册
+### 一、wqj-ui组件库使用手册
 
 #### 1、下载
 
@@ -44,7 +44,7 @@ Vue.use(WQJ)
 | circle   | 是否是圆形按钮                                        | boolean  | false  |
 | disabled | 是否禁用按钮                                          | boolean  | false  |
 | size     | 图标大小（medium/small/mini）                         | string   | 无     |
-| icon     | 图标类名                                              | string   | 2无    |
+| icon     | 图标类名                                              | string   | 无    |
 
 （2）icon支持的图标类名
 
